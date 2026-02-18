@@ -597,9 +597,11 @@ devices under a variety of operating systems.
   organization via group policies. And since it is in active development by
   community members, your bug reports, feature requests, and other feedback are
   most welcome.
+- [SaneHosts](https://sanehosts.com "SaneHosts") (for macOS): A native hosts
+  file manager with profile-based blocking, Touch ID protection, and support
+  for 200+ curated blocklists. Open source.
 - [ViHoMa](https://github.com/cmabad/ViHoMa) is a Visual Hosts file Manager,
   written in Java, by Christian Martínez. Check it out!
-- [SaneHosts](https://sanehosts.com "SaneHosts") (for macOS): A native hosts file manager with profile-based blocking, Touch ID protection, and support for 200+ curated blocklists. Open source.
 
 ## Interesting Applications
 
